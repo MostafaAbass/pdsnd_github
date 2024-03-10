@@ -230,5 +230,6 @@ def main():
 
 
 if __name__ == "__main__":
-    first_change = 1 
+    first_change = 1
+    second_change = 2 
 	main()
